@@ -10,7 +10,7 @@ class Bio extends DataScientist {
   title    = 'Data Scientist';
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends DataScientist {
   languages  = ['Python', 'SQL', 'HTML', 'CSS', 'JS'];
   databases  = ['MySQL', 'PostgreSQL'];
   frameworks = ['Streamlit', 'Flask', 'FastAPI'];
